@@ -24,11 +24,11 @@
 19. [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) ---> Not Done
 20. [Determine Whether Matrix Can Be Obtained By Rotation](https://leetcode.com/problems/determine-whether-matrix-can-be-obtained-by-rotation/) ---> Not Done
 21. [Two Sum](https://leetcode.com/problems/two-sum/) ---> Done
-22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
-23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
-24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
-25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-26. [Plus One](https://leetcode.com/problems/plus-one/)
+22. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/) ---> Done
+23. [Lucky Number In a Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/) ---> Not Done
+24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) ---> Not Done
+25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) ---> Not Done
+26. [Plus One](https://leetcode.com/problems/plus-one/) ---> Not Done
 27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
 
